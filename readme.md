@@ -1,3 +1,11 @@
+Forked from: [node-gpstracker](https://github.com/jfromaniello/node-gpstracker)
+==========
+
+Changes included in this fork:
+* Fixed bug: [months are off by one](https://github.com/jfromaniello/node-gpstracker/issues/1)
+* Including seconds in date
+
+------
 I found this device on the internetz:
 
 ![GPS/GPRS Tracker](http://www.zhyichina.com/en/GPSTracking/TK102.jpg)
